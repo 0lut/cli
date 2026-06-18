@@ -4,3 +4,4 @@ bench commit 3 at 1781822881.072031
 bench commit 4 at 1781822885.219899
 bench commit 5 at 1781822889.507749
 bench commit 6 at 1781822893.516288
+stale gap=1 commit 0 at 1781824186.5453298
